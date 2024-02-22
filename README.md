@@ -1,6 +1,6 @@
 # About Me
 
-Hello, I'm Bria Brown, a current student of the  Master's of Data Analytics program at Western Governors University! I am an educator with 4 years of experience transitioning into the field of data analytics. Immediately below is the work I am completing through my program. If you would like to see a list of personal projects please jump to the Personal Projects section or click this link. 
+Hello, I'm Bria Brown, a current student of the  Master's of Data Analytics program at Western Governors University! I am an educator with 4 years of experience transitioning into the field of data analytics. Immediately below is the work I am completing through my program. If you would like to see a list of personal projects please jump to the Personal Projects section or click this [link](https://github.com/BBrPortfolio/Personal-Projects). 
 # WGU_Portfolio
 Here is a compilation of the projects I worked on during my MSDA Program at WGU. The purpose of this portfolio is to showcase my work for potential employers and a reference guide for students pursuing the coursework currently. 
 
