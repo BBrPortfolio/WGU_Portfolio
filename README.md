@@ -1,8 +1,19 @@
 # About Me
 
-Hello, I'm Bria Brown, a current student of the  Master's of Data Analytics program at Western Governors University! I am an educator with 4 years of experience transitioning into the field of data analytics. Immediately below is the work I am completing through my program. If you would like to see a list of personal projects please jump to the Personal Projects section or click this [link](https://github.com/BBrPortfolio/Personal-Projects). 
-# WGU_Portfolio
-Here is a compilation of the projects I worked on during my MSDA Program at WGU. The purpose of this portfolio is to showcase my work for potential employers and a reference guide for students pursuing the coursework currently. 
+👋 About Me
+Hello, I'm Bria Brown—a Master's student in the Data Analytics and Data Engineering program at Western Governors University. With four years of experience as an educator, I'm now transitioning into the field of data analytics and engineering. My passion lies in transforming data into actionable insights and building solutions that support smarter decision-making.
+
+Immediately below is the work I’ve completed through my graduate program. If you’re looking for independent, hands-on projects outside of my coursework, please visit the Personal Projects section.
+
+📁 WGU_Portfolio
+This repository is a collection of projects I’ve completed during my MSDADE program at WGU. The purpose of this portfolio is to:
+
+Showcase my technical and analytical skills to potential employers
+
+Serve as a helpful reference for current or prospective students in the program
+
+Each project folder includes documentation, code, and explanations that reflect my learning and growth in data analytics and engineering.
+
 
 # Classes, Projects, Presentations, and Reviews:
 
@@ -10,15 +21,22 @@ Listed is a timeline with links to the corresponding projects for specific cours
 
 | Program |Class                             |Project Name                                                             | Project Video                                                                      | Date Completed          |
 |:-------:|:--------------------------------:|:-----------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|:-----------------------:|
+| MSDA    | D194: IT Leadership Foundations | None (Exam-based)                                                       | None                                                                               | 3 Oct 2022              |
+| MSDA    | D197: Version Control | 1: [Repository Link](https://gitlab.com/learning_gitlab5183011/d197)                                                      | None                                                                               |             |
+| MSDA    | D175: Data Management Foundations | None (Exam-based)                                                      | None                                                                               |             |
+| MSDA    | D170: Data Management Applications | 1: [Normalization and Database Design](https://drive.google.com/file/d/16bTkRjht4F4MNcPG6sw9sS2NHY8GCtPV/view?usp=sharing) 2. Exam                                                      | None                                                                               |             |
 | MSDA    | D204: The Data Analytics Journey | None (Exam-based)                                                       | None                                                                               | 3 Oct 2022              |
-| MSDA    | D205: Data Acquisition           | 1: [Medical Readmission and Hyperlipidemia]()                                                 | [Task 1]()                                                                         | 13 Oct 2022             |
+| MSDA    | D204: The Data Analytics Journey | None (Exam-based)                                                       | None                                                                               | 3 Oct 2022              |
+| MSDA    | D205: Data Acquisition           | 1: [Medical Readmission and Hyperlipidemia](https://drive.google.com/file/d/1NsF8FAAydrtUgMOyRgWwavu7OtJqX1t1/view?usp=drive_link)                                                 | [Task 1]()                                                                         | 13 Oct 2022             |
 | MSDA    | D206: Data Cleaning              | 1: [Placeholder Name]()                                                 | [Task 1]()                                                                         | 19 Oct 2022             |
 | MSDA    | D207: Exploratory Data Analysis  | 1: [Placeholder Name]()                                                 | [Task 1]()                                                                         | 7 Nov 2022              |
-| MSDA    | D208: Predictive Modeling        | 1: [Placeholder Name]() 2: [Placeholder Name]()                         | [Task 1]() [Task 2]()                                                              | 28 Nov 2022             |
-| MSDA    | D209: Data Mining I              | 1: [Placeholder Name]() 2: [Placeholder Name]()                         | [Task 1]() [Task 2]()                                                              | 12 Dec 2022             |
-| MSDA    | D210: Representation & Reporting | 1: [Placeholder Name]()                                                 | [Task 1]()                                                                         | 22 Dec 2022             |
-| MSDA    | D211: Advanced Data Acquisition  | 1: [Placeholder Name]()                                                 | [Task 1]()                                                                         | 23 Jan 2023             |
-| MSDA    | D212: Data Mining II             | 1: [Placeholder Name]() 2: [Placeholder Name]() 3: [Placeholder Name]() | [Task 3]()                                                                         | 23 Jan 2023             |
-| MSDA    | D213: Advanced Data Analysis     | 1: [Placeholder Name]() 2: [Placeholder Name]()                         | None                                                                               | 20 Feb 2023             |
-| MSDA    | D214: MS Data Analytics Capstone | 1: [Placeholder Name]() 2: [Placeholder Name]() 3: [Placeholder Name]() | [Task 3]()                                                                         | 14 Mar 2023             |
+| MSDADE    | D597: Data Management        | 1: [Placeholder Name]() 2: [Placeholder Name]()                         | [Task 1]() [Task 2]()                                                              | 30 May 2025             |
+| MSDADE    | D599: Data Preparation and Exploration              | 1: [Placeholder Name]() 2: [Placeholder Name]()                         | [Task 1]() [Task 2]()                                                              | 30 May 2025            |
+| MSDADE    | D600: Statistical Data Mining | 1: [Placeholder Name]()                                                 | [Task 1]()                                                                         | 30 May 2025             |
+| MSDADE    | D601: Data Storytelling for Varied Audiences  | 1: [Placeholder Name]()                                                 | [Task 1]()                                                                         |              |
+| MSDADE    | D602: Deployment            | 1: [Placeholder Name]() 2: [Placeholder Name]() 3: [Placeholder Name]() | [Task 3]()                                                                         |             |
+| MSDADE    | D607: Cloud Databases     | 1: [Placeholder Name]() 2: [Placeholder Name]()                         | None                                                                               |             |
+| MSDADE    | D608: Data Processing | 1: [Placeholder Name]() 2: [Placeholder Name]() 3: [Placeholder Name]() | [Task 3]()                                                                         |             |
+| MSDADE    | D609: Data Analytics at Scale | 1: [Placeholder Name]() 2: [Placeholder Name]() 3: [Placeholder Name]() | [Task 3]()                                                                         |             |
+| MSDADE    | D610: Data Engineering Capstone | 1: [Placeholder Name]() 2: [Placeholder Name]() 3: [Placeholder Name]() | [Task 3]()                                                                         |             |
 
