@@ -2,7 +2,7 @@
 
 👋 About Me
 
-Hello, I'm Bria Brown—a Master's student in the Data Analytics and Data Engineering program at Western Governors University. With four years of experience as an educator, I'm now transitioning into the field of data analytics and engineering. My passion lies in transforming data into actionable insights and building solutions that support smarter decision-making.
+Hello, I'm Bria Brown—a Master's student in the Data Analytics and Data Engineering program at Western Governors University. With four years of experience as an educator, I'm now transitioning into the field of data analytics and engineering. Halfway through my MSDA course path, I transferred to the MSDADE program course path, shown below. My passion lies in transforming data into actionable insights and building solutions that support smarter decision-making.
 
 Immediately below is the work I’ve completed through my graduate program. If you’re looking for independent, hands-on projects outside of my coursework, please visit the Personal Projects section.
 
